@@ -1,10 +1,7 @@
-# ¡Hola! 👋 Soy Gemma Rubí
+# ¡Hola! 👋 Soy Gema
 
-Desarrolladora web full-stack con experiencia en tecnologías como JavaScript, TypeScript, Angular, NestJS y Laravel.  
+Desarrolladora web full-stack con experiencia en tecnologías como JavaScript, Angular, NestJS y Laravel.  
 Familiarizada con herramientas de bajo código como PowerApps y PowerAutomate.  
-Comprometida con la programación limpia, la escalabilidad y la mejora continua.  
-Capaz de trabajar de forma autónoma o en equipo, con buenas capacidades de adaptación.
-
 ---
 
 ## 📬 Contacto
