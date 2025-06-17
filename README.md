@@ -46,4 +46,4 @@ Familiarizada con herramientas de bajo código como PowerApps y PowerAutomate.
 
 ---
 
-> _Cualquier tecnología suficientemente avanzada es equivalente a la magia.
+> "No es la máquina la que hace el trabajo, es la mente detrás de la máquina." – Thomas Edison
