@@ -46,4 +46,4 @@ Familiarizada con herramientas de bajo código como PowerApps y PowerAutomate.
 
 ---
 
-> _"La educación es el pasaporte hacia el futuro, el mañana pertenece a quienes se preparan para él hoy."_ – Malcolm X
+> _Cualquier tecnología suficientemente avanzada es equivalente a la magia.
