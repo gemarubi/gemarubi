@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Gema
 
-Desarrolladora web full-stack con experiencia en tecnologías como JavaScript, Angular, NestJS y Laravel.  
-Familiarizada con herramientas de bajo código como PowerApps y PowerAutomate.  
+<p>Desarrolladora web full-stack con experiencia en tecnologías como JavaScript, Angular, NestJS y Laravel. </p> 
+<p>Familiarizada con herramientas de bajo código como PowerApps y PowerAutomate.  </p>  
 ---
 
 ## 📬 Contacto
