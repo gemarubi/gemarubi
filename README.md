@@ -8,7 +8,7 @@ Más que solo escribir código, me apasiona entender cómo y por qué funcionan 
 
 ## 📬 Contacto
 
-- 📧 Email: gemarubio89@gmail.co
+- 📧 Email: gemarubio89@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/gema-rubio-sanchez
 
 ---
